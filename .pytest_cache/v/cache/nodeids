@@ -1,0 +1,5 @@
+[
+  "tests/test_main.py::test_get_books_cache_miss",
+  "tests/test_main.py::test_get_books_empty",
+  "tests/test_main.py::test_post_books"
+]
